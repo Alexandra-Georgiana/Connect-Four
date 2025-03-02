@@ -1,4 +1,4 @@
-# Connect-Four
+
 # Connect 4 - Animated Menu
 
 This project is a Connect 4 game implemented in Python using Pygame. It features an animated menu, and sound effects, and supports both Player vs Player (PvP) and Player vs AI (PvAI) game modes.

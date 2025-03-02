@@ -1,7 +1,7 @@
 # Connect-Four
 # Connect 4 - Animated Menu
 
-This project is a Connect 4 game implemented in Python using Pygame. It features an animated menu, sound effects, and supports both Player vs Player (PvP) and Player vs AI (PvAI) game modes.
+This project is a Connect 4 game implemented in Python using Pygame. It features an animated menu, and sound effects, and supports both Player vs Player (PvP) and Player vs AI (PvAI) game modes.
 
 ## Features
 
@@ -10,10 +10,10 @@ This project is a Connect 4 game implemented in Python using Pygame. It features
 - Grayscale endgame screen with options to play again or return to the menu.
 - AI opponent using the Minimax algorithm with alpha-beta pruning.
 
-## Project Structur
--***Final.py***: Main game script.
--***config.py***: Configuration file with constants and settings.
--***Elements/***: Directory containing images and sound files.
+## Project Structure
+-***Final.py***: Main game script.</br>
+-***config.py***: Configuration file with constants and settings.</br>
+-***Elements/***: Directory containing images and sound files.</br>
 
 ## How to Play
 -Launch the game and navigate the animated menu.
@@ -24,5 +24,5 @@ This project is a Connect 4 game implemented in Python using Pygame. It features
 -After the game ends, the screen turns gray, and options to play again or return to the menu appear.
 
 ## Graphics and Sound  
-- All graphic elements in this project were created by me using **Krita**.  
-- The sounds and music used in this project come from open-source materials on YouTube and are used in accordance with their respective licenses.  
+- I created all graphic elements in this project using **Krita**.  
+- The sounds and music used in this project come from open-source materials on YouTube and are used following their respective licenses.  
